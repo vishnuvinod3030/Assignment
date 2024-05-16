@@ -1,0 +1,14 @@
+.header{
+    background-color: blue;
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+}
+.card{
+    border: none;
+}
+.products{
+    padding: 10px;
+    border-radius: 10px;
+}
